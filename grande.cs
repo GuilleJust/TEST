@@ -5,7 +5,7 @@ public class grandeguille
 		int x=1;
 		while(x==1)
 		{
-			System.Console.WriteLine(x);
+			System.Console.WriteLine("\a{0}",x);
 		}
 	}
 }
